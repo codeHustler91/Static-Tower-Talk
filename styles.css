@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Black+Ops+One|Roboto&display=swap');
+
 body {
-    background: greenyellow;
+    background: rgba(153, 153, 245, 0.801);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-family: 'Audiowide', cursive;
 }
 .clickable {
     cursor: pointer;
