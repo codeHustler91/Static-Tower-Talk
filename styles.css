@@ -1,0 +1,6 @@
+body {
+    background: greenyellow;
+}
+.clickable {
+    cursor: pointer;
+}
