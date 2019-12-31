@@ -1,10 +1,10 @@
 // targets
-const title = document.querySelector('h1')
+const logo = document.querySelector('.logo')
 
 // event listeners
-title.addEventListener('click', (event) => changeTitle())
+logo.addEventListener('click', (event) => changeTitle())
 
 // functions
 function changeTitle() {
-    title.innerText == 'TOWER TALK' ? title.innerText = 'EASTER EGGG!!!' : title.innerText = 'TOWER TALK'
+    logo.innerText == 'TOWER TALK' ? logo.innerText = 'EASTER EGGG!!!' : title.innerText = 'TOWER TALK'
 }
