@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Black+Ops+One|Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    background: ivory;
+}
+header {
+    margin: 0px;
+    border-bottom: 2px solid silver;
+    padding: 5px 10px;
+    background: rgba(198, 148, 235, 0.822);
+}
+article {
+    margin: 0px;
+    padding: 5px 10px;
+}
+footer {
+    margin: 0px;
+    border-top: 2px solid silver;
+    padding: 5px 10px;
+}
+h1 {
+    font-family: 'Audiowide', cursive;
+    margin: 0px;
+}
+h2 {
+    margin: 5px 0;
+}
+h3 {
+    margin: 5px 0;
+}
+ul {
+    padding: 0 0 0 20px;
+    margin: 16px 0 8px 0; 
+}
+li {
+    margin: 3px 0;
+}
+.clickable {
+    cursor: pointer;
+}
