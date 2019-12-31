@@ -6,5 +6,5 @@ logo.addEventListener('click', (event) => changeTitle())
 
 // functions
 function changeTitle() {
-    logo.innerText == 'TOWER TALK' ? logo.innerText = 'EASTER EGGG!!!' : title.innerText = 'TOWER TALK'
+    logo.innerText == 'TOWER TALK' ? logo.innerText = 'EASTER EGGG!!!' : logo.innerText = 'TOWER TALK'
 }
