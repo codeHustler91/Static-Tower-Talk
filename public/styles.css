@@ -42,6 +42,12 @@ ul {
 li {
     margin: 3px 0;
 }
+p {
+    display: inline;
+}
+button {
+    font-family: 'Roboto', sans-serif;
+}
 .clickable {
     cursor: pointer;
 }

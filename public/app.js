@@ -11,7 +11,6 @@ function changeTitle() {
     logo.innerText == 'TOWER TALK' ? logo.innerText = 'EASTER EGGG!!!' : logo.innerText = 'TOWER TALK'
 }
 function copy(event) {
-    console.log(event.target.name, 'event info')
     // create temporary input element to copy from
     const body = document.querySelector('body')
     const tempInput = document.createElement('input');
