@@ -50,5 +50,6 @@ li {
     background-image: url('https://s.yimg.com/uu/api/res/1.2/RfyiVgwUK7kbrw02vVqHFQ--~B/aD0xMTM3O3c9MTY4NztzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_US/News/US-AFPRelax/istock_21639071.43a40124246.original.jpg');
     background-position: bottom 45% left 50%;
     background-size: cover;
+    border-radius: 30% 10% 10% 30%;
     box-shadow: inset 0 0 4px 4px rgba(115, 205, 233, 0.863);
 }
